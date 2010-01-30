@@ -1,0 +1,1 @@
+This module provides a way to run a program and either ignore, capture, or "tee" its output. It can do each of these actions on stderr, stdin, both separately, or both merged.

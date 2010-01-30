@@ -1,0 +1,19 @@
+---
+abstract: 'Run a program and capture its output in different ways.'
+author:
+  - 'Ryan Niebur <ryanryan52@gmail.com>'
+configure_requires:
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3601'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Capture-System
+provides:
+  Capture::System:
+    file: lib/Capture/System.pm
+    version: 0.01
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
